@@ -152,7 +152,7 @@ Violations may result in:
 ---
 
 ## 13. Contact
-info@starkhacks.com
+The StarkHacks Media Relations Team: media@starkhacks.com
 
 ---
 
